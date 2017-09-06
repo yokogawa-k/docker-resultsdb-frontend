@@ -1,6 +1,6 @@
 # Copy this file to `conf/settings.py` to put it into effect. It overrides the
 # values defined in `resultsdb_frontend/config.py`.
-RDB_URL = 'http://resultsdb:5001/api/v1.0'
+RDB_URL = 'http://resultsdb:5001/api/v2.0'
 # SECRET_KEY = 'replace-me-with-something-random'
 FILE_LOGGING = False
 LOGFILR = '/var/log/resultsdb_frontend/resultsdb_frontend.log'
